@@ -28,6 +28,6 @@ Para la revisión deben enviar en el grupo de WhatsApp el link de su repositorio
 Github
 
 
-Integrantes:
+# Integrantes:
 Adriana Valeria Gonzales Gutierrez
 Juan Jvaier Caceres zunaga 
